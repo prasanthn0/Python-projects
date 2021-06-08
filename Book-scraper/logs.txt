@@ -1,0 +1,307 @@
+08-06-2021 23:08:35 INFO     [app.py:17] Loading the books list.....
+08-06-2021 23:08:35 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:36 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET / HTTP/1.1" 200 None
+08-06-2021 23:08:36 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:37 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+08-06-2021 23:08:38 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:38 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+08-06-2021 23:08:39 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:40 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+08-06-2021 23:08:40 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:41 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+08-06-2021 23:08:41 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:44 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+08-06-2021 23:08:45 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:45 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+08-06-2021 23:08:46 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:47 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+08-06-2021 23:08:47 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:48 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+08-06-2021 23:08:49 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:49 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+08-06-2021 23:08:50 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:50 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+08-06-2021 23:08:51 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:52 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+08-06-2021 23:08:52 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:53 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+08-06-2021 23:08:53 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:55 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+08-06-2021 23:08:56 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:57 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+08-06-2021 23:08:57 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:58 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+08-06-2021 23:08:58 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:08:59 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+08-06-2021 23:09:00 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:00 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+08-06-2021 23:09:01 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:02 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+08-06-2021 23:09:02 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:03 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+08-06-2021 23:09:04 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:04 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+08-06-2021 23:09:05 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:06 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+08-06-2021 23:09:06 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:07 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+08-06-2021 23:09:07 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:08 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+08-06-2021 23:09:09 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:09 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+08-06-2021 23:09:10 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:11 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+08-06-2021 23:09:11 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+08-06-2021 23:09:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+08-06-2021 23:09:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+08-06-2021 23:09:15 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+08-06-2021 23:09:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+08-06-2021 23:09:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+08-06-2021 23:09:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+08-06-2021 23:09:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+08-06-2021 23:09:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+08-06-2021 23:09:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+08-06-2021 23:09:24 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:25 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+08-06-2021 23:09:25 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:26 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+08-06-2021 23:09:26 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:27 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+08-06-2021 23:09:27 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:28 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+08-06-2021 23:09:29 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:29 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+08-06-2021 23:09:29 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:30 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+08-06-2021 23:09:30 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:31 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+08-06-2021 23:09:32 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:33 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+08-06-2021 23:09:34 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:35 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-45.html HTTP/1.1" 200 None
+08-06-2021 23:09:35 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:36 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-46.html HTTP/1.1" 200 None
+08-06-2021 23:09:36 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:37 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-47.html HTTP/1.1" 200 None
+08-06-2021 23:09:37 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:38 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-48.html HTTP/1.1" 200 None
+08-06-2021 23:09:38 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:39 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-49.html HTTP/1.1" 200 None
+08-06-2021 23:09:39 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:09:40 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-50.html HTTP/1.1" 200 None
+08-06-2021 23:23:11 INFO     [app.py:17] Loading the books list.....
+08-06-2021 23:23:11 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET / HTTP/1.1" 200 None
+08-06-2021 23:23:12 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:13 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:13 INFO     [all_pages.py:24] Found number of catalogue pages `
+            
+                Page 1 of 50
+            
+            `
+08-06-2021 23:23:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:13 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+08-06-2021 23:23:14 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:14 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+08-06-2021 23:23:16 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:16 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:17 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+08-06-2021 23:23:17 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:18 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+08-06-2021 23:23:19 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:19 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:19 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:20 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+08-06-2021 23:23:20 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:21 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+08-06-2021 23:23:22 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:22 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:22 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+08-06-2021 23:23:23 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:24 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:24 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:24 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+08-06-2021 23:23:25 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:25 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:25 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:26 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+08-06-2021 23:23:26 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:26 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:26 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:27 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+08-06-2021 23:23:27 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:27 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:27 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:28 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+08-06-2021 23:23:29 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:29 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:29 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:30 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+08-06-2021 23:23:30 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:30 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:30 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:31 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+08-06-2021 23:23:32 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:32 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:32 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:33 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+08-06-2021 23:23:33 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:33 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:33 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:34 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+08-06-2021 23:23:34 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:35 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:35 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:36 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+08-06-2021 23:23:36 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:37 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:37 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:37 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+08-06-2021 23:23:38 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:38 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:38 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:39 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+08-06-2021 23:23:39 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:40 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:40 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:41 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+08-06-2021 23:23:41 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:41 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:41 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:42 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+08-06-2021 23:23:42 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:43 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:43 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:44 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+08-06-2021 23:23:44 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:44 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:44 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:45 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+08-06-2021 23:23:46 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:46 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:46 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:47 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+08-06-2021 23:23:47 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:47 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:47 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:48 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+08-06-2021 23:23:48 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:48 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:49 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:49 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+08-06-2021 23:23:50 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:50 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:50 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:51 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+08-06-2021 23:23:51 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:52 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:52 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:52 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+08-06-2021 23:23:53 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:53 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:53 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:54 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+08-06-2021 23:23:54 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:54 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:54 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:55 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+08-06-2021 23:23:55 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:56 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:56 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:56 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+08-06-2021 23:23:57 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:57 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:57 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:58 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+08-06-2021 23:23:58 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:23:58 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:23:58 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:23:59 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+08-06-2021 23:23:59 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:00 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:00 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:01 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+08-06-2021 23:24:01 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:01 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:01 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:02 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+08-06-2021 23:24:02 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:03 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:03 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:04 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+08-06-2021 23:24:04 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:05 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:05 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:06 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+08-06-2021 23:24:06 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:06 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:06 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:07 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+08-06-2021 23:24:07 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:08 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:08 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:09 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+08-06-2021 23:24:09 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:09 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:10 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:11 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+08-06-2021 23:24:11 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:11 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:11 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:12 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+08-06-2021 23:24:13 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:13 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:13 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:14 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+08-06-2021 23:24:14 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:14 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:14 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:15 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+08-06-2021 23:24:15 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:16 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:16 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:16 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+08-06-2021 23:24:17 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:17 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:17 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:18 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-45.html HTTP/1.1" 200 None
+08-06-2021 23:24:18 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:18 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:18 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:19 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-46.html HTTP/1.1" 200 None
+08-06-2021 23:24:19 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:20 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:20 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:21 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-47.html HTTP/1.1" 200 None
+08-06-2021 23:24:21 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:21 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:21 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:22 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-48.html HTTP/1.1" 200 None
+08-06-2021 23:24:22 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:23 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:23 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:23 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-49.html HTTP/1.1" 200 None
+08-06-2021 23:24:24 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:24 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
+08-06-2021 23:24:24 DEBUG    [connectionpool.py:227] Starting new HTTP connection (1): books.toscrape.com:80
+08-06-2021 23:24:25 DEBUG    [connectionpool.py:452] http://books.toscrape.com:80 "GET /catalogue/page-50.html HTTP/1.1" 200 None
+08-06-2021 23:24:25 DEBUG    [all_pages.py:12] Getting contents of the page with BeautifulSoup HTML parser
+08-06-2021 23:24:25 INFO     [all_pages.py:17] Getting all books using `div.page_inner section li.col-xs-6`. 
